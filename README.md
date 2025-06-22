@@ -72,9 +72,9 @@ Povezivanje sa backend aplikacijom (Laravel, Node)
 Projekat pokrenut i razvijen od strane  
 **Radoje Božić**
 
-[![GitHub](https://img.shields.io/badge/GitHub-RadojeBozic-181717?style=for-the-badge&logo=github)](https://github.com/RadojeBozic)  
-[![Email](https://img.shields.io/badge/Email-radojebozic1966@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radojebozic1966@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radoje-bo%C5%BEi%C4%87-9b199930b/)
+ [![GitHub](https://img.shields.io/badge/GitHub-RadojeBozic-181717?style=for-the-badge&logo=github)](https://github.com/RadojeBozic)  
+ [![Email](https://img.shields.io/badge/Email-radojebozic1966@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radojebozic1966@gmail.com)  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radoje-bo%C5%BEi%C4%87-9b199930b/)
 
 
 🆓 Licenca
