@@ -1,0 +1,40 @@
+{
+  "heroTitle": "Global Business Systems – Your Digital Partner",
+  "heroSubtitle": "We help you digitalize your business – from websites to software solutions.",
+  "ctaButton": "Book a consultation",
+  "featuresTitle": "Our Key Services",
+  "featuresSubtitle": "A modular approach you can customize",
+  "ctaTitle": "Ready for the next step?",
+  "ctaText": "Contact us and digitalize your business with GBS support.",
+  "ctaAction": "Contact Us",
+  "features": [
+    {
+      "title": "Website Development",
+      "description": "Simple, fast, and responsive business websites with contact forms, maps, and galleries."
+    },
+    {
+      "title": "ERP & Business Applications",
+      "description": "Modules for managing companies, clients, invoices, and inventory."
+    },
+    {
+      "title": "Online Stores",
+      "description": "E-commerce solutions with multi-vendor support, Stripe/PayPal integration, and SEO optimization."
+    },
+    {
+      "title": "AI Tools & Assistance",
+      "description": "Content generation, optimization, chat assistants, automation, and translations."
+    },
+    {
+      "title": "CMS & Blog Systems",
+      "description": "Manage articles, categories, comments, and newsletters easily."
+    },
+    {
+      "title": "Education & Support",
+      "description": "Video tutorials, PDF guides, onboarding, and technical support for your users."
+    }
+  ],
+    "footerText": "© 2025 Global Business Systems. All rights reserved.",
+  "privacyPolicy": "Privacy Policy",
+  "termsOfService": "Terms of Service",
+  "contactUs": "Contact Us"
+}

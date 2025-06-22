@@ -1,0 +1,41 @@
+{
+  "heroTitle": "Global Business Systems – Vaš digitalni partner",
+  "heroSubtitle": "Pomažemo vam da digitalizujete poslovanje — od sajta do softverskih rešenja.",
+  "ctaButton": "Zakaži konsultacije",
+  "featuresTitle": "Naše ključne usluge",
+  "featuresSubtitle": "Modularni pristup koji možete kombinovati po potrebi",
+  "ctaTitle": "Spremni za sledeći korak?",
+  "ctaText": "Kontaktirajte nas i digitalizujte svoje poslovanje uz GBS podršku.",
+  "ctaAction": "Kontaktiraj nas",
+  "features": [
+  {
+    "title": "Izrada sajtova",
+    "description": "Jednostavni, brzi i prilagodljivi poslovni sajtovi sa kontakt formom, mapom i galerijom."
+  },
+  {
+    "title": "ERP i poslovne aplikacije",
+    "description": "Moduli za upravljanje firmama, klijentima, fakturama i zalihama."
+  },
+  {
+    "title": "Online prodavnice",
+    "description": "E-commerce rešenja sa podrškom za više prodavaca, Stripe/PayPal integraciju i SEO."
+  },
+  {
+    "title": "AI alati i asistencija",
+    "description": "Generisanje sadržaja, optimizacija, chat asistenti, automatizacija i prevodi."
+  },
+  {
+    "title": "CMS i blog sistemi",
+    "description": "Upravljanje člancima, kategorijama, komentarima i slanjem biltena."
+  },
+  {
+    "title": "Edukacija i podrška",
+    "description": "Video tutorijali, PDF uputstva, obuka i tehnička pomoć za vaše korisnike."
+  }
+],
+ "footerText": "© 2025 Global Business Systems. Sva prava zadržana.",
+  "privacyPolicy": "Politika privatnosti",
+  "termsOfService": "Uslovi korišćenja",
+  "contactUs": "Kontaktirajte nas"
+
+}
